@@ -20,7 +20,7 @@ A collection of nice command line tools that I use on a day to day basis.
 
 [`zoxide`](https://github.com/ajeetdsouza/zoxide) - More intelligent version of `cd`
 
-[`exa`](https://github.com/eza-community/eza) - Modern version of `ls`
+[`eza`](https://github.com/eza-community/eza) - Modern version of `ls`
 
 [`bat`](https://github.com/sharkdp/bat) - Colourful version of `cat` 
 
