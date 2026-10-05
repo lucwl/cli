@@ -40,7 +40,7 @@ A collection of nice command line tools that I use on a day to day basis.
 
 ## Language tooling
 
-[uv](https://github.com/astral-sh/uv`) - Fast package and environment manager for Python
+[`uv`](https://github.com/astral-sh/uv`) - Fast package and environment manager for Python
 
 [`ty`](https://github.com/astral-sh/ty) - Fast type checker for Python
 
